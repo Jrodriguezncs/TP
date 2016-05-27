@@ -1,11 +1,11 @@
 
 """Programa ...."""
 
-#Este programa llamado fissbuzz es un clasico de una evaluación de programación
-#El programa muestra FIZZ si es múltiplo de 3
-#El programa muestra BUZZ si es múltiplo de 5
-#El programa muestra el número si no es múltiplo de 3 o de 5
-#El programa muestra FIZZ BUZZ si es múltiplo de 3 y de 5 al mismo tiempo
+#Este programa llamado fissbuzz es un clasico de una evaluacion de programacion
+#El programa muestra FIZZ si es multiplo de 3
+#El programa muestra BUZZ si es multiplo de 5
+#El programa muestra el numero si no es multiplo de 3 o de 5
+#El programa muestra FIZZ BUZZ si es multiplo de 3 y de 5 al mismo tiempo
 
 # Pseudocodigo:
 
@@ -15,13 +15,13 @@
 a=1
 while a<=100 :
     
-if a%3==0 :
-    print ("FIZZ")
+    if a%3==0 :
+        print ("FIZZ")
     
     if a%5==0 :
         print ("BUZZ")
     
-else: 
-    print a
+    else: 
+        print a
     
 a=a+1
