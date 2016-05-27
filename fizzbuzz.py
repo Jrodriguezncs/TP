@@ -13,15 +13,18 @@
 
 
 a=1
-while a<=100 :
+while a<=15 :
     
-    if a%3==0 :
+    if a%3==0 and a%5==0 :
+        print ("FIZZBUZZ")
+    
+    elif a%3==0 :
         print ("FIZZ")
     
-    if a%5==0 :
+    elif a%5==0 :
         print ("BUZZ")
     
     else: 
         print a
     
-a=a+1
+    a=a+1
