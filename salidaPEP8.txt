@@ -1,0 +1,23 @@
+fizzbuzz.py:12:80: E501 line too long (241 > 79 characters)
+fizzbuzz.py:12:242: W291 trailing whitespace
+fizzbuzz.py:15:2: E225 missing whitespace around operator
+fizzbuzz.py:16:8: E225 missing whitespace around operator
+fizzbuzz.py:16:13: E203 whitespace before ':'
+fizzbuzz.py:17:1: W293 blank line contains whitespace
+fizzbuzz.py:18:9: E228 missing whitespace around modulo operator
+fizzbuzz.py:18:11: E225 missing whitespace around operator
+fizzbuzz.py:18:20: E228 missing whitespace around modulo operator
+fizzbuzz.py:18:22: E225 missing whitespace around operator
+fizzbuzz.py:18:25: E203 whitespace before ':'
+fizzbuzz.py:20:1: W293 blank line contains whitespace
+fizzbuzz.py:21:11: E228 missing whitespace around modulo operator
+fizzbuzz.py:21:13: E225 missing whitespace around operator
+fizzbuzz.py:21:16: E203 whitespace before ':'
+fizzbuzz.py:23:1: W293 blank line contains whitespace
+fizzbuzz.py:24:11: E228 missing whitespace around modulo operator
+fizzbuzz.py:24:13: E225 missing whitespace around operator
+fizzbuzz.py:24:16: E203 whitespace before ':'
+fizzbuzz.py:26:1: W293 blank line contains whitespace
+fizzbuzz.py:27:10: W291 trailing whitespace
+fizzbuzz.py:29:1: W293 blank line contains whitespace
+fizzbuzz.py:30:10: W292 no newline at end of file
